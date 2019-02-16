@@ -1,6 +1,6 @@
 token= NTAyOTM1MTYxNDQxMzUzNzI4.DqvLLg.ECdUfcu8L5CBBknzNk_btbX5aGs
-owner= 195088897234042880 
+owner= 448964162840690700
 prefix= 2
-game= 2help | The Best Shop
-stayinchannel=true
-songinstatus=true
+game= 2help | FalconCommunity
+stayinchannel=false
+songinstatus=flase
